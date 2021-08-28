@@ -1,0 +1,24 @@
+0. 안내문 출력
+1. 파일 이름 입력(확장자 포함)
+	유효성 검사
+	아이템이 몇 개인지
+2. 1~10 출력
+3. 1~10 고르기
+4. 해당 시퀀스 작동
+	1) Print all items
+	2) Print an item	- index
+	3) Edit an item
+	4) Add an item
+	5) Insert an item
+	6) Delete an item
+	7) Delete all items
+	8) Save file
+	9) Search by name
+	10) Quit
+반복
+
+
+<파일> - 구조체
+총 개수
+이름
+점수
